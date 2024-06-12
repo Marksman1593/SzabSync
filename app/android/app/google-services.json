@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880147153826",
+    "project_id": "szabsync",
+    "storage_bucket": "szabsync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880147153826:android:0619ba80b703100a27a8fb",
+        "android_client_info": {
+          "package_name": "com.example.szabsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnRMiqyw7XYtp14ETJUeCBV099_ZCHD0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+class APIRoutes {
+  static const String baseURL = "https://lusiontech.com/szabsync/backend/";
+  static const String login = baseURL + "login.php";
+  static const String signup = baseURL + "signup.php";
+  static const String sendVerification = baseURL + "send_verification.php";
+  static const String buyTicket = baseURL + "buy_ticket.php";
+  static const String completeEvent = baseURL + "complete_event.php";
+  static const String createCategory = baseURL + "create_category.php";
+  static const String createEvent = baseURL + "create_event.php";
+  static const String createEventPost = baseURL + "create_event_post.php";
+  static const String createNotification = baseURL + "create_notification.php";
+  static const String deletePost = baseURL + "delete_post.php";
+  static const String editCategory = baseURL + "edit_category.php";
+  static const String editEvent = baseURL + "edit_event.php";
+  static const String getNotifs = baseURL + "get_notifs.php";
+  static const String likeEventPost = baseURL + "like_event_post.php";
+  static const String searchEvent = baseURL + "search_event.php";
+  static const String ticketStatus = baseURL + "ticket_status.php";
+  static const String unbanStudent = baseURL + "unban_student.php";
+  static const String unlikeEventPost = baseURL + "unlike_event_post.php";
+  static const String uploadFile = baseURL + "upload_file.php";
+  static const String verifyTicket = baseURL + "verify_ticket.php";
+  static const String viewActiveEvents = baseURL + "view_active_events.php";
+  static const String viewAllCategories = baseURL + "view_all_categories.php";
+  static const String viewAllStudents = baseURL + "view_all_students.php";
+  static const String viewArchivedEvents = baseURL + "view_archived_events.php";
+  static const String viewCategoryEvents = baseURL + "view_category_events.php";
+  static const String viewEventPosts = baseURL + "view_event_posts.php";
+  static const String viewSingleEvent = baseURL + "view_single_event.php";
+  static const String viewTopEvents = baseURL + "view_top_events.php";
+}
